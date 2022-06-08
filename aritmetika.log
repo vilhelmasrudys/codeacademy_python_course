@@ -1,0 +1,47 @@
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 2
+DEBUG:root:suma: 7
+DEBUG:root:suma: 13
+DEBUG:root:suma: 13
+DEBUG:root:suma: 13
+2022-06-08 21:47:39,262:DEBUG:suma: 13
+2022-06-08 21:49:49,240:DEBUG:suma: 13
+2022-06-08 21:50:15,054:DEBUG:suma: 13
+2022-06-08 21:50:15,054:INFO:square root: 3.0
+2022-06-08 21:51:48,591:DEBUG:suma: 13
+2022-06-08 21:51:48,591:INFO:square root: 3.0
+2022-06-08 21:53:00,627:DEBUG:suma: 13
+2022-06-08 21:53:00,628:INFO:square root: 3.0
+2022-06-08 21:53:00,628:INFO:sentence lenght: aaaa
+2022-06-08 21:53:22,815:DEBUG:suma: 13
+2022-06-08 21:53:22,815:INFO:square root: 3.0
+2022-06-08 21:53:22,815:INFO:sentence lenght: 4
+2022-06-08 21:53:51,414:DEBUG:suma: 13
+2022-06-08 21:53:51,415:INFO:square root: 3.0
+2022-06-08 21:53:51,415:INFO:sentence lenght: aaaa
