@@ -63,7 +63,7 @@ def square_root(x: float) -> float:
 square_root(9)
 
 def len_of_sentence(x):
-    logging.info(f"sentence lenght: {x}")
+    logging.info(f"sentence lenght: {len(x)}")
     return len(x)
 
 len_of_sentence("aaaa")
